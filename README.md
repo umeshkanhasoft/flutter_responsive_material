@@ -15,8 +15,9 @@
 
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
-### Flutter Responsive Material Demo Final UI Preview
+## Video Preview
+
 <video width="640" height="360" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1tfiZt1Tv4h-8PHpmoyaN1dUSQTViSgEZ" type="video/mp4">
+  <source src="videos/your-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
