@@ -17,4 +17,4 @@
 
 ## Video Preview
 
-[app_video.mp4](https://drive.google.com/file/d/1w_-MBt6QqESlmhQnBGn_6J8o7MjcDZzE/view
+[app_video.mp4](https://drive.google.com/file/d/1w_-MBt6QqESlmhQnBGn_6J8o7MjcDZzE/view)
