@@ -16,4 +16,4 @@
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
 ### Flutter Responsive Material Demo Final UI Preview
-![App UI](app_video.mp4)
+![App UI](https://drive.google.com/file/d/1tfiZt1Tv4h-8PHpmoyaN1dUSQTViSgEZ/view)
