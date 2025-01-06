@@ -17,4 +17,4 @@
 
 ### Flutter Responsive Material Demo Final UI Preview
 
-![App UI](/app_video.mp4)
+![App UI](/app_video.gif)
