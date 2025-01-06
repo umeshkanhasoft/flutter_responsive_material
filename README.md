@@ -17,7 +17,4 @@
 
 ## Video Preview
 
-<video width="640" height="360" controls>
-  <source src="app_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[app_video.mp4](https://drive.google.com/file/d/1w_-MBt6QqESlmhQnBGn_6J8o7MjcDZzE/view
